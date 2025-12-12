@@ -1,4 +1,4 @@
-## Hi there 👋
+## Just trying to get the hang of this thing 🤔
 
 <!--
 **enguun94/enguun94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
